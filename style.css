@@ -44,3 +44,20 @@ body {
     box-shadow: 0.5rem 1rem 3rem hsl(0, 0, 0,0.3);
 
 }
+.img-01  { 
+    width: 200px;
+    height: 250px;
+    border-radius: 300px;
+    margin-left: 150px;
+}
+.img-02  {
+    width: 200px;
+    height: 250px;
+    border-radius: 300px;
+    margin-left: 100px;
+    
+ }
+  .img-03   { 
+    width: 150px;
+    margin-left: 100px;
+  }
